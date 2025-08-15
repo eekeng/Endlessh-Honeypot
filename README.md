@@ -7,7 +7,7 @@ In this project, I configured a virtual machine on Microsoft Azure running Ubunt
 
 
 
-Try it yourself. SSH into the server and see how long it takes you :).
+Try it yourself. SSH into the server and see how long it takes you.
 
 ssh labuser@20.124.80.52
 
