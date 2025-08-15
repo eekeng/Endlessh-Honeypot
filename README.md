@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, I configured a virtual machine on Microsoft Azure running Ubuntu 24.04 to act as a honeypot using an [endless ssh tarpit](https://github.com/skeeto/endlessh). I changed the actual SSH port to something else, then ran the tarpit on port 22 to trap any unauthorized SSH clients indefinitely. 
+In this project, I configured a virtual machine on Microsoft Azure running Ubuntu 24.04 to act as a honeypot using an endless ssh tarpit. I changed the actual SSH port to something else, then ran the tarpit on port 22 to trap any unauthorized SSH clients indefinitely. 
 
 
 
